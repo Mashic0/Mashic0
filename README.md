@@ -3,14 +3,19 @@
 
 # Hi, I'm Marcelo Urgilez 👋
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://avatars.githubusercontent.com/u/194538865?v=4"  />
+</div>
+
 ### Junior Software Developer | Web & Mobile Development
 
 Building web, mobile and backend applications with modern technologies.
 
 📍 Cuenca, Ecuador 🇪🇨
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mashic0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mashic0)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcexavup1997@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-urgilez-1a27a7436)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcexav1997@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:marcexavup1997@outlook.com)
 
 </div>
 
@@ -18,69 +23,114 @@ Building web, mobile and backend applications with modern technologies.
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development graduate** from Instituto Tecnológico Superior del Azuay, Ecuador.
+I'm a **Software Development Technologist** from Instituto Tecnológico Superior del Azuay, Ecuador, with experience building web, mobile and desktop applications through professional experience, academic projects and independent development.
 
-I have hands-on experience developing web, mobile and desktop applications through academic projects and a software development internship.
+My technical background includes Java, Spring Boot, Kotlin, React Native and Angular, with a focus on backend development, mobile applications and software architecture.
 
-My main interests include **Java, Spring Boot, React Native and full-stack development**.
+I'm currently working independently on **WhatSticker**, a native Android application, applying Kotlin, Jetpack Compose and Clean Architecture to build practical and user-focused software solutions.
 
-I enjoy building applications that solve real-world problems, exploring new technologies and continuously improving my software development skills.
+I enjoy solving real-world problems through code, learning new technologies and continuously improving my development skills.
 
 - 🎓 Software Development Technologist | Class of 2026
 - 💼 Former Software Development Intern at Gesinsoft (APECS)
-- 📱 Experience building mobile applications with React Native and Expo
+- 📱 Developing WhatSticker, a native Android application using Kotlin and Jetpack Compose
 - 🌐 Experience working with Angular, React and Spring Boot
-- 🗄️ Familiar with relational and NoSQL databases
-- 🌱 Currently expanding my knowledge of backend development and software architecture
+- ⚙️ Familiar with REST APIs, MVVM, Clean Architecture and relational databases
+- ☁️ Experience with PostgreSQL, MySQL, MongoDB and Google Cloud
 - 🎯 Open to Junior Software Developer opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white)
-
-### Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=swagger&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DataStore-4285F4?style=flat-square&logo=android&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📱 WhatSticker | WhatsApp Sticker Creator
+
+**Android Development · Independent Project**
+
+A native Android application designed to create, organize and export custom WhatsApp sticker packs from images and animated media.
+
+The project focuses on providing an intuitive sticker creation experience, supporting both static and animated stickers while ensuring compatibility with WhatsApp's sticker requirements.
+
+**My role:** Android development, architecture and implementation.
+
+**Technologies used:**
+
+`Kotlin` `Jetpack Compose` `Material 3` `Room` `DataStore` `Android SDK` `MVVM` `Clean Architecture`
+
+**My contributions:**
+
+- Designed and implemented the application interface using Jetpack Compose and Material 3.
+- Applied MVVM and Clean Architecture principles to structure the application.
+- Implemented local data persistence using Room and DataStore.
+- Developed functionality for creating and managing static and animated sticker packs.
+- Implemented media processing and validation to meet WhatsApp sticker format and size requirements.
+- Worked on integrating sticker packs with WhatsApp using Android's sticker content provider.
+
+---
 
 ### 📱 SAPia | Citizen Reporting Platform
 
@@ -130,27 +180,6 @@ The project combines web and mobile applications, cloud services and IoT technol
 
 ---
 
-### ♻️ EcoCapi | Recycling Management System
-
-**Desktop Development · Academic Project**
-
-A Java desktop application designed to support recycling centers in managing their daily operations.
-
-The application follows the Model-View-Controller architectural pattern and uses a local relational database.
-
-**Technologies used:**
-
-`Java` `MVC` `Swing` `JavaFX` `MySQL` `MariaDB`
-
-**Key features and contributions:**
-
-- Developed desktop application functionality using Java.
-- Implemented graphical user interfaces with Swing and JavaFX.
-- Applied the MVC architectural pattern.
-- Integrated a local MySQL/MariaDB database for data persistence.
-
----
-
 ## 💼 Professional Experience
 
 ### Software Development Intern
@@ -163,6 +192,17 @@ Contributed to the development of a business invoicing system for mobile and web
 - Collaborated on web development using React and JavaScript.
 - Worked with Odoo and PostgreSQL in a business software environment.
 
+### Independent Software Developer
+
+**Self-Employed | Nov 2026 – Present**
+
+Developing WhatSticker, a native Android application for creating and managing WhatsApp sticker packs.
+
+- Designing and implementing Android features using Kotlin and Jetpack Compose.
+- Applying MVVM and Clean Architecture principles to maintain a modular and scalable codebase.
+- Implementing local data persistence using Room and DataStore.
+- Integrating Android functionality for sticker creation, media processing, and WhatsApp compatibility.
+
 ---
 
 ## 📊 GitHub Stats
@@ -173,17 +213,11 @@ Contributed to the development of a business invoicing system for mobile and web
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashic0&layout=compact&theme=github_dark&hide_border=true)
 
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Mashic0/Mashic0/snake-output/snake.svg" alt="Snake animation" />
+
 </div>
-
----
-
-## 📫 Let's Connect
-
-I'm interested in opportunities to grow as a software developer and collaborate on projects involving web, mobile and backend technologies.
-
-📧 **Email:** [marcexavup1997@outlook.com](mailto:marcexavup1997@outlook.com)
-
-💻 **GitHub:** [github.com/Mashic0](https://github.com/Mashic0)
 
 ---
 
