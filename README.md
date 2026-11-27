@@ -205,18 +205,32 @@ Developing WhatSticker, a native Android application for creating and managing W
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mashic0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=Mashic0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+       alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashic0&layout=compact&theme=github_dark&hide_border=true)
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashic0&layout=compact&theme=github_dark&hide_border=true"
+       alt="Top Languages" />
 
-<br clear="both">
+</div>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Mashic0/Mashic0/snake-output/snake.svg" alt="Snake animation" />
+<br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Mashic0/Mashic0/snake-output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Mashic0/Mashic0/snake-output/snake.svg" />
+    <img alt="GitHub Contribution Snake"
+         src="https://raw.githubusercontent.com/Mashic0/Mashic0/snake-output/snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -226,3 +240,4 @@ Developing WhatSticker, a native Android application for creating and managing W
 *Always learning, building and improving.*
 
 </div>
+
